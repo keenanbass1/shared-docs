@@ -2,7 +2,10 @@
 visibility: public
 title: Philosophy Brain
 description: Comprehensive philosophy reference mapping 2,500+ years of philosophical traditions
+category: synthesis
+tags: [philosophy, western, islamic, chinese, indian, african, indigenous]
 updated: 2026-01-09
+status: in-progress
 ---
 
 # Philosophy Cheat Sheet

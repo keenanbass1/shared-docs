@@ -1,8 +1,11 @@
 ---
 visibility: public
-title: Art Movements Map
+title: Art Brain
 description: Comprehensive reference mapping art movements from ancient civilizations through contemporary practice
+category: synthesis
+tags: [art-history, movements, modernism, contemporary-art, visual-arts]
 updated: 2026-01-09
+status: complete
 ---
 
 # Mapping art movements: a comprehensive reference guide

@@ -2,7 +2,10 @@
 visibility: public
 title: Literature Brain
 description: Complete reference guide covering genre theory, canonical works, and literary analysis
+category: synthesis
+tags: [literature, genre-theory, canon, fiction, poetry, drama]
 updated: 2026-01-09
+status: complete
 ---
 
 # Literature: A Complete Reference Guide

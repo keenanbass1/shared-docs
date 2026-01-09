@@ -1,8 +1,11 @@
 ---
 visibility: public
-title: Music Genre Taxonomy
+title: Music Brain
 description: Master architecture and comprehensive taxonomy of Western popular music genres
+category: synthesis
+tags: [music, genres, taxonomy, blues, rock, jazz, electronic, hip-hop]
 updated: 2026-01-09
+status: complete
 ---
 
 # Western Popular Music Genre Taxonomy: Master Architecture
