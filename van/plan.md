@@ -31,9 +31,10 @@ Started: January 2026
 | Make & Model | 2008 Ford Transit Bus |
 | Roof Height | Mid Roof |
 | Wheelbase | Long Wheelbase (LWB) |
-| Interior Length | //TODO: Measure |
-| Interior Width | //TODO: Measure |
-| Interior Height | //TODO: Measure |
+| Interior Length | 3200mm |
+| Interior Width | 1750mm |
+| Interior Width above windows | 1470mm |
+| Interior Height | 1600mm |
 | Payload Capacity | //TODO: Check |
 | Approved Seating | 12 seats (factory engineered) |
 
@@ -60,6 +61,140 @@ Started: January 2026
 
 ### Plumbing
 - Nothing installed yet
+
+---
+
+## Space Planning Notes
+
+*Research conducted January 2026 - to be refined with measurements*
+
+### Current Layout Overview
+```
+REAR (Barn Doors)
+┌─────────────────────────────────────┐
+│            BED (1400mm)             │
+│  [Under-bed sliding drawers x2]    │
+├─────────────────────────────────────┤
+│ Overhead │              │ Overhead  │
+│ Cabinets │    Aisle     │ Cabinets  │
+│ (driver) │              │(passenger)│
+├──────────┤              ├───────────┤
+│ Extended │              │ Galley    │
+│ L-Cabinet│   [Lagun     │ Kitchen   │
+│ (pantry, │    Table     │ (sink,    │
+│  storage)│    Zone]     │ fridge,   │
+│          │              │ cooktop)  │
+├──────────┴──────────────┴───────────┤
+│  Existing L-shaped cabinet + 12V    │
+│         [Driver/Passenger Seats]    │
+│  ┌────────────────────────────────┐ │
+│  │   Overhead Cab Storage Shelf   │ │
+│  └────────────────────────────────┘ │
+└─────────────────────────────────────┘
+FRONT (Cab)
+```
+
+### Zone Breakdown
+
+**Bed Zone (Rear ~1400mm)**
+- Horizontal bed at full width
+- Under-bed "garage" storage (2 large sliding drawers already installed)
+- Flat storage shelf above bed head area
+
+**Living Zone (Middle ~1800mm)**
+- Driver side: Extend existing L-cabinet forward for pantry/dry storage
+- Passenger side: Galley kitchen by sliding door (sink, fridge, cooktop)
+- Centre: Lagun table deployment zone, seating
+- Overhead: Cabinets both sides (250-300mm deep, using 1470mm ceiling width)
+
+**Cab Zone (Front)**
+- Overhead cab storage shelf (custom build required for 2008 model)
+- Existing L-shaped cabinet behind seats with 12V system
+
+### Overhead Cabinet Dimensions
+- Ceiling width above windows: 1470mm
+- Recommended cabinet depth: 250-300mm each side
+- Clear aisle remaining: ~870-970mm
+- Construction: 11mm ply frames, 3mm ply doors/skin
+- Mount to existing M6 rivnuts
+- Use gas struts or soft-close hinges (prevent doors flying open while driving)
+- Add lip on opening edge to prevent contents spilling
+
+### Overhead Cab Storage (Above Driver/Passenger)
+**Challenge**: 2008 Transit has different headliner than newer models. DIY kits (Vancillary, Timber Van Kits) designed for 2015+ US Transit.
+
+**Approach for 2008**:
+- Remove existing plastic headliner/console
+- Measure actual mounting points
+- Custom build plywood shelf to fit
+- Mount supports through metal with L-braces
+- Consider vertical strut wall behind seats (crash safety)
+
+**Alternative**: Soft mesh/fabric hammock storage (lighter, no complex mounting)
+
+### Fridge Placement Options
+1. Under existing L-cabinet counter (needs flip-up section - top-opening Dometic)
+2. By sliding door (accessible inside/outside)
+3. Near bed foot (convenient night access)
+
+**Note**: Top-opening Dometic needs clearance above - don't bury it under fixed counter.
+
+### Sliding Door Side Ideas
+**Option A - Galley Kitchen** (Recommended)
+- Sink + cooktop facing sliding door = ventilation + views while cooking
+- Natural separation: dry storage driver side, wet/cooking passenger side
+- Fridge could go here in pull-out drawer style
+
+**Option B - Multi-Purpose Bench**
+- Bench seat with storage underneath
+- Upper section as pull-out pantry
+- Doubles as seating when Lagun table deployed
+
+### Storage Hacks to Implement
+| Hack | Location | Est. Cost |
+|------|----------|-----------|
+| Magnetic knife strip | Kitchen wall | ~$15 |
+| Collapsible Tupperware | Kitchen storage | ~$30 |
+| Vacuum bags for bedding | Under bed drawers | ~$20 |
+| Pegboard panel | Inside cabinet door | 3mm ply (have) |
+| Sink cover = cutting board | Kitchen counter | Custom cut ply |
+| Door-mounted organizers | Inside cabinet doors | ~$10-20 each |
+| Tension rods under cabinets | Hang mugs, utensils | ~$5 each |
+
+### Rear Door Storage (External)
+
+**Concept**: Mount toolbox-style storage boxes to barn doors instead of/in addition to roof storage.
+
+**Benefits**:
+- No aerodynamic drag (vs roof boxes)
+- Frees roof for platform/deck use
+- Easy access to outdoor gear (chairs, BBQ, mud mats)
+- Keeps dirty outdoor items outside
+
+**Weight Limits**:
+- **Max ~100-150lbs (45-70kg) per door** - hinges, latches, and door skin are the limiting factors
+- Aluminess rates their racks at 100lbs dynamic capacity
+
+**Commercial Options**:
+- **Aluminess** rear door racks (~$800-1500 USD) - bolt to factory door locations, no drilling
+- **Flatline Van Co** storage box - welded aluminum, weatherproof, gas struts
+- Standard ute/truck toolboxes (diamond plate aluminum) - need custom mounting
+
+**DIY Approach**:
+- Mount directly to door hinges (strongest option) with backing plates
+- Use heavy steel angle brackets
+- Have aluminum box custom made by HVAC company (cheaper than Aluminess)
+- Keep depth under ~350mm (13-14") to avoid door balance issues
+
+**Considerations for Your Van**:
+- Barn doors must still close properly with weight added
+- May need upgraded door struts/gas stays
+- Check hinge condition before adding weight
+- Consider spare tire carrier on one door + storage box on other
+
+**Alternative - Soft Storage**:
+- VanDerMoon Moon Organizer - fabric pockets/nets, up to 40kg total
+- Lower weight, easier install, good for lighter items
 
 ---
 
@@ -136,22 +271,25 @@ Started: January 2026
 - Curtain rod/track + fabric
 
 ### Phase 6: Exterior & Roof
-*Roof rack, solar, cosmetics*
+*Roof rack, solar, cosmetics, rear door storage*
 
 - [ ] Roof rack installation
-- [ ] Roof storage boxes (waterproof)
 - [ ] Solar panel mounting to roof rack
+- [ ] Roof platform/deck area (if not using full roof for panels)
+- [ ] Rear door storage boxes (alternative to roof storage)
+- [ ] Spare tire carrier (rear door mount option)
 - [ ] Reverse camera OR large mirror
 - [ ] Surface rust touch-up paint
 - [ ] Black bumper paint refresh
 
 **Shopping list - Exterior:**
 - Roof rack (brand TBD after research)
-- Waterproof storage boxes
 - Solar panel mounting hardware
 - Touch-up paint (Ford Transit colour match)
 - Black bumper paint
 - Reverse camera kit OR convex mirror
+- Rear door storage: Aluminess rack OR DIY brackets + toolboxes
+- Door gas struts (if adding rear door weight)
 
 ### Phase 7: Safety & Misc
 
@@ -203,6 +341,12 @@ Started: January 2026
 - **Cooking**: Metho stove primary, pocket rocket backup, optional electric hotplate ✓
 - **Power for AC devices**: Inverter + powerboard ✓
 - **Roof Rack**: Rhino-Rack Pioneer Platform (need quote for 2008 Transit ~$600-900) ✓
+- **Rear Door Storage**: Considering as alternative/supplement to roof storage ⏳
+
+### Pending Research
+- **Rear Door Storage**: DIY vs Aluminess vs toolbox conversion - check hinge condition first
+- **Overhead Cab Storage**: Custom build approach for 2008 Transit headliner
+- **Galley Layout**: Finalise sliding door side vs extend L-cabinet
 
 ### Deferred (Post-Build Upgrades)
 - **Swivel Seats**: Not essential now, $600-1200 - defer ⏸
@@ -216,6 +360,8 @@ Started: January 2026
 - Berkey water filter
 - IKEA SKORVA bed parts
 - Tools (jigsaw, circular saw, etc.)
+- Aluminium toolboxes / ute boxes (for rear door storage)
+- Gas struts / door stays
 
 ---
 
@@ -224,10 +370,11 @@ Started: January 2026
 ### This Week - Action Items
 - [ ] **Order MaxxAir Deluxe 5100K/6200K** from CaravansPlus or Campsmart
 - [ ] **Order Lagun table** from BCA Australia ($352)
-- [ ] **Set up Marketplace alerts** for toilet, water tanks, IKEA parts
+- [ ] **Set up Marketplace alerts** for toilet, water tanks, IKEA parts, toolboxes
 - [ ] **Contact Rhino-Rack** for 2008 Transit mid-roof LWB quote
-- [ ] **Measure van interior** dimensions (length, width, height)
+- [x] **Measure van interior** dimensions (length, width, height) ✓ Done
 - [ ] **Buy simple shower supplies** (shower head + solar bag ~$60)
+- [ ] **Inspect barn door hinges** - check condition before planning rear door storage
 
 ### Ready to Start Building
 *(You have the materials!)*
@@ -288,4 +435,4 @@ Started: January 2026
 
 ---
 
-*Last Updated: January 2026*
+*Last Updated: 23 January 2026*
