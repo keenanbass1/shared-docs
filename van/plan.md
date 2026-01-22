@@ -8,22 +8,19 @@ Started: January 2026
 
 ---
 
-## Research Tasks
+## Materials On Hand
 
-These need answers before starting related build work. Can be done by AI with review.
+**What You Already Have:**
+- ✅ Multiple sheets of 11mm plywood → Use for furring strips & cabinet frames
+- ✅ Several sheets of 3mm plywood → Use for wall/ceiling panels & cabinet skin
+- ✅ M6 rivnuts installed throughout van
+- ✅ M6 dome head bolts (countersink the wood, they'll work perfect)
+- ✅ 2x200Ah LiFePO4 batteries (installed)
+- ✅ Solar panels & Renogy 50A DC-DC charger (installed)
+- ✅ 12V Dometic fridge (installed)
+- ✅ Inverter + powerboard (installed)
 
-| Topic | Question | Status |
-|-------|----------|--------|
-| MaxxAir installation | Does this require cutting roof before panelling, or can it be done after? Installation process for mid-roof Transit | Pending |
-| Under-van water tanks | 2008 Ford Transit LWB options - clearance, mounting brackets, feasibility | Pending |
-| Electric hot water | 12V options for outdoor shower, power draw, tank size needed | Pending |
-| Boiling water shower | Alternative systems (e.g. Joolca, portable gas) - pros/cons vs electric | Pending |
-| Stainless steel water filter | Non-plastic options (Berkey, Doulton, etc) - what fits van life | Pending |
-| Portable toilet | Better options than basic Marketplace porta-potty? Composting vs cassette | Pending |
-| Lagun table | Options for Ford Transit, mounting, price range | Pending |
-| Swivel seats | Ford Transit 2008 compatible swivel bases, DIY vs pre-made | Pending |
-| Roof rack | Load rating needed, brands for mid-roof Transit, solar panel mounting compatibility | Pending |
-| Security cameras | 12V wireless options, storage solutions, phone integration | Pending |
+**This saves ~$500+ in materials you don't need to buy!**
 
 ---
 
@@ -189,12 +186,105 @@ These need answers before starting related build work. Can be done by AI with re
 
 ## Key Decisions Locked In
 
+### Major Purchases Decided
+- **MaxxAir Fan**: Deluxe 5100K or 6200K (~$400-500) - Has rain shield + thermostat ✓
+- **Lagun Table**: BCA Australia ($352 - cheapest price found) ✓
+- **AC Charger**: 25A Victron Blue Smart (adequate for system, grab Marketplace deal if available) ✓
+- **Bed Frame**: IKEA SKORVA beams (3-4 beams) + LÖNSET slats (~$140-230 total) ✓
+
+### System Decisions
 - **Battery system**: 2x200Ah LiFePO4 ✓
-- **Lighting**: Pure 12V LED direct from battery ✓
+- **Lighting**: Pure 12V LED with dimmer switches (NOT smart lights) ✓
+- **Hot Water**: Boiling water method + solar shower bag (~$60 total, defer expensive systems) ✓
 - **Shower**: Outdoor between barn doors ✓
-- **Toilet**: Portable ✓
-- **Cooking**: Metho stove primary, optional electric backup ✓
+- **Water Tanks**: Poly tanks interior mount (stainless hard to find/expensive) ✓
+- **Water Filter**: Inline filter + separate Berkey for drinking ✓
+- **Toilet**: Portable cassette (hunt Marketplace 2-4 weeks) ✓
+- **Cooking**: Metho stove primary, pocket rocket backup, optional electric hotplate ✓
 - **Power for AC devices**: Inverter + powerboard ✓
+- **Roof Rack**: Rhino-Rack Pioneer Platform (need quote for 2008 Transit ~$600-900) ✓
+
+### Deferred (Post-Build Upgrades)
+- **Swivel Seats**: Not essential now, $600-1200 - defer ⏸
+- **Security Cameras**: Start with dashcam, dedicated system later ⏸
+- **Sound System**: Start with Bluetooth speaker, install speakers later if needed ⏸
+
+### Marketplace Hunt List
+*(Check daily for 2-4 weeks before buying new)*
+- Cassette toilet (Dometic/Thetford $80-150)
+- Water tanks (stainless steel if lucky)
+- Berkey water filter
+- IKEA SKORVA bed parts
+- Tools (jigsaw, circular saw, etc.)
+
+---
+
+## Current Priorities
+
+### This Week - Action Items
+- [ ] **Order MaxxAir Deluxe 5100K/6200K** from CaravansPlus or Campsmart
+- [ ] **Order Lagun table** from BCA Australia ($352)
+- [ ] **Set up Marketplace alerts** for toilet, water tanks, IKEA parts
+- [ ] **Contact Rhino-Rack** for 2008 Transit mid-roof LWB quote
+- [ ] **Measure van interior** dimensions (length, width, height)
+- [ ] **Buy simple shower supplies** (shower head + solar bag ~$60)
+
+### Ready to Start Building
+*(You have the materials!)*
+- Phase 1: MaxxAir installation (order fan first, allow 1-2 weeks delivery)
+- Phase 2: Install furring strips using your 11mm ply + M6 bolts
+- Phase 2: Install wall panels using your 3mm ply
+- Phase 5: Build overhead cabinets using 11mm ply frames + 3mm skin
+
+---
+
+## Common Questions & Answers
+
+### Q: Is 25A AC charger enough for our system?
+**A: YES - Perfect for your setup!**
+- 2x200Ah LiFePO4 = 400Ah total
+- 25A charges 50% to 100% in ~8 hours
+- You have solar + DC-DC as primary, AC as backup/supplement
+- Victron Blue Smart 25A is excellent quality (~$350-450 new)
+- **Marketplace deal: Grab it if under $300**
+
+### Q: How do we secure drawers/furniture to floor?
+**A: Use L-Brackets + Rubber Mat**
+- Mount 2-4 heavy duty L-brackets (50-75mm) at back/side corners
+- Screw through floor into furniture frame
+- Add rubber mat underneath to dampen vibration
+- Parts: Bunnings L-brackets $3-5 each
+- **Rule**: Anything >5kg must be secured
+
+### Q: Should we get smart lights?
+**A: NO - Use dimmers instead**
+- Smart lights need WiFi/hub (battery drain, complexity)
+- **Better**: 12V LED lights with dimmer switches
+- Dimmer switches: Jaycar $15-25 each
+- Zero idle power, simple, reliable
+- Optional: RGB LED strips with RF remote for ambient (~$40)
+
+### Q: How do I plan 12V wiring for lights/accessories?
+**A: Follow this process:**
+1. Create zone map (ceiling, kitchen, bedside, desk, etc.)
+2. Count components per zone, calculate total watts/amps
+3. Plan wire runs from fuse panel to each zone (14 AWG wire)
+4. Choose switch locations
+5. Calculate wire lengths (add 20% extra)
+6. Run wires BEFORE wall panels go up
+7. Wire lights in parallel, use appropriate fuses
+8. Test each circuit before finalizing
+
+**See build-guide.md for detailed step-by-step wiring instructions**
+
+### Q: Should we add a sound system?
+**A: Start simple, upgrade later**
+- **Start with**: Good Bluetooth speaker ($100-150)
+- If you use it daily after 3 months: Install ceiling speakers
+- Full speaker install: ~$250-300 (4 speakers + Bluetooth receiver + amp)
+- Power draw: 3-7A at moderate volume (add to 12V planning)
+
+**See build-guide.md for speaker installation instructions**
 
 ---
 
