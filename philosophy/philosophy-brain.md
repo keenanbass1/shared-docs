@@ -1,5 +1,45 @@
+---
+visibility: public
+title: Philosophy Brain
+description: Comprehensive philosophy reference mapping 2,500+ years of philosophical traditions
+category: synthesis
+tags: [philosophy, western, islamic, chinese, indian, african, indigenous]
+updated: 2026-01-09
+status: in-progress
+---
+
 # Philosophy Cheat Sheet
 ## A Navigator's Guide to the History of Ideas
+
+---
+
+## Executive Summary
+
+This comprehensive philosophy reference maps **six major traditions** spanning **2,500+ years**, from Pre-Socratic fragments to contemporary continental and analytic philosophy. The guide encompasses Western, Islamic, Chinese, Indian, African, and Indigenous philosophical traditions.
+
+**Organizational Principles:**
+- **Problem-centered approach**: Part 1 organizes philosophy by perennial questions (What exists? How do we know? How should we live?) before diving into specific thinkers
+- **Multi-tradition coverage**: Avoids Western-only focus by granting equal depth to Islamic, Chinese, Indian, African, and Indigenous traditions
+- **Detailed individual entries**: Each major thinker receives thorough treatment following consistent format
+
+**Structure:**
+- **Part 1: Perennial Questions** - Core problems organized thematically across traditions
+- **Part 2: Traditions Overview** - Historical context for six major traditions
+- **Part 3: The Thinkers** - Detailed entries for individual philosophers
+- **Part 4: Concept Glossary** - Key terms across traditions
+- **Part 5: Cross-Cultural Conversations** - Where traditions intersect
+
+**Key Features:**
+- **Future Exploration questions** after each thinker invite deeper inquiry
+- **Common Misconceptions** prevent misunderstandings
+- **Why They Matter** sections explain lasting impact
+- **Connections** sections map influence, critique, and legacy (enhanced with relationship symbols)
+
+**Current Coverage:** Western (Pre-Socratics → Contemporary), Islamic (Al-Kindi → Iqbal, partial), Chinese (Confucius → Neo-Confucianism, partial), Indian (Upanishads → Buddhist schools, partial), African and Indigenous (initial framework).
+
+**Future Priorities:** Complete entries for Sophists, Cynics, Skeptics, Roman Stoics; expand Early Modern (Spinoza, Leibniz, Locke, Berkeley, Hume); develop 20th Century (Wittgenstein, Heidegger, Sartre, Beauvoir, Arendt, Rawls, Quine, Kripke, Davidson); expand non-Western traditions.
+
+**Use Case:** Personal study and deep learning, not survey-level introduction. Entries assume intellectual engagement and reward sustained attention.
 
 ---
 
@@ -54,6 +94,264 @@ This document is organized around **problems**, not just people. Philosophy isn'
 # Part 1: The Perennial Questions
 
 These are the problems that keep recurring across cultures and centuries. Every philosopher is grappling with some subset of these.
+
+---
+
+## Visual Relationship Maps: Influence Networks Across Traditions
+
+Philosophy's history forms interconnected networks of influence, reaction, and synthesis. These maps use symbols to trace lineage and relationships:
+- → (direct lineage: teacher to student, major influence)
+- ← (inherited from)
+- ↔ (cross-pollination, mutual influence)
+- ⊗ (reacted against, criticized)
+- ⟳ (revival movement)
+- ⊕ (influenced by indirectly)
+
+### Western Philosophy: Ancient Lineages
+
+**Pre-Socratic Foundations:**
+```
+Thales → Anaximander → Anaximenes (Milesian school: material principles)
+Pythagoras → Pythagorean school (number, harmony, soul)
+Heraclitus (flux, logos) ⊗ Parmenides (being, unchanging reality)
+Parmenides → Zeno (defending Parmenides through paradox)
+Heraclitus + Parmenides → Democritus/Leucippus (atoms + void solution)
+```
+
+**Classical Synthesis:**
+```
+Socrates → Plato → Aristotle
+Socrates ← Sophists (⊗ rejection of relativism)
+Plato ← Pythagoreans (mathematics, immortal soul), Parmenides (Forms)
+Aristotle: student → critic of Plato
+```
+
+**Hellenistic Schools:**
+```
+Socrates ⊕ Cynics (Antisthenes, Diogenes) → Stoics (Zeno of Citium)
+Democritus → Epicurus (atomism, ethics)
+Pyrrho → Pyrrhonian Skepticism (Aenesidemus, Sextus Empiricus)
+Plato → Academic Skepticism (Arcesilaus, Carneades)
+
+Stoics ⊗ Epicureans (determinism vs. free will, physics, ethics)
+```
+
+**Neoplatonic Synthesis:**
+```
+Plato ⟳ Plotinus (3rd c. CE revival + synthesis)
+Plotinus → Porphyry → Iamblichus → Proclus
+Neoplatonism → Augustine, Islamic philosophy (Al-Farabi, Ibn Sina), medieval Christian mysticism
+```
+
+### Medieval Synthesis: Philosophy Meets Revealed Religion
+
+**Islamic Philosophy:**
+```
+Greek philosophy (Aristotle, Plato, Neoplatonism) → Islamic falsafa
+Al-Kindi → Al-Farabi → Ibn Sina (Avicenna) [rationalist synthesis]
+Ibn Sina → European Scholasticism
+Al-Ghazali ⊗ Falsafa (critique on behalf of Sufism/orthodoxy)
+Ibn Rushd (Averroes) → defense of Aristotle, influences Aquinas
+```
+
+**Jewish Medieval:**
+```
+Islamic philosophy → Maimonides (Guide for the Perplexed)
+Maimonides ↔ Aquinas (mutual influence on synthesis)
+```
+
+**Christian Scholasticism:**
+```
+Augustine ← Neoplatonism (Plotinus)
+Anselm (ontological argument)
+Aquinas ← Aristotle (via Ibn Rushd), synthesizes with Christianity
+Duns Scotus, William of Ockham (nominalism ⊗ realism)
+```
+
+### Early Modern: Rationalists vs. Empiricists
+
+**Rationalist Line:**
+```
+Descartes (cogito, method of doubt, dualism)
+Descartes → Spinoza (monism, Ethics)
+Descartes → Leibniz (monadology, optimism)
+```
+
+**Empiricist Line:**
+```
+Locke (tabula rasa, empiricism, liberalism)
+Locke → Berkeley (idealism)
+Berkeley → Hume (radical skepticism, causation critique)
+```
+
+**Synthesis:**
+```
+Rationalists + Empiricists → Kant (critical philosophy, Copernican revolution)
+```
+
+### 19th Century: Hegel's Children and Rebels
+
+**Idealist Development:**
+```
+Kant → Fichte → Schelling → Hegel (absolute idealism, dialectic)
+```
+
+**Reactions to Hegel:**
+```
+Hegel → Feuerbach ⊗ (materialism, humanism)
+Feuerbach → Marx ⊗ Hegel (historical materialism, inverts dialectic)
+Marx + Engels (scientific socialism, communism)
+
+Hegel → Kierkegaard ⊗ (individual vs. system, leap of faith, existentialism)
+Hegel → Nietzsche ⊗ (genealogy, will to power, eternal return, death of God)
+
+Hegel → British Idealists (Bradley, McTaggart)
+```
+
+**Other Developments:**
+```
+Mill (utilitarianism, liberalism) ← Bentham
+Schopenhauer ⊗ Hegel (pessimism, will, Eastern influences)
+Schopenhauer → Nietzsche (early influence), Wagner
+```
+
+### Islamic Philosophy: Classical Synthesis
+
+**Formative Period:**
+```
+Quran + Greek philosophy (translation movement) → Falsafa
+Al-Kindi (first major Islamic philosopher) → Al-Farabi (virtuous city, synthesis)
+Al-Farabi → Ibn Sina (Avicenna: essence/existence distinction, necessary being)
+```
+
+**Critique and Continuation:**
+```
+Al-Ghazali ⊗ Falsafa (*Incoherence of the Philosophers*)
+Ibn Rushd (Averroes) ⊗ Al-Ghazali (*Incoherence of the Incoherence*), defends Aristotle
+```
+
+**Mystical Philosophy:**
+```
+Sufism ↔ Falsafa (synthesis: Ibn Arabi, Suhrawardi)
+Ibn Arabi (unity of being, perfect human)
+Mulla Sadra (Transcendent Philosophy, synthesis of falsafa + Sufism + Shi'ism)
+```
+
+### Chinese Philosophy: Three Teachings
+
+**Classical Period:**
+```
+Confucius (ritual, virtue, social harmony)
+Confucius → Mencius (human nature is good) vs. Xunzi (human nature is bad)
+
+Laozi → Daodejing (Dao, wu-wei, naturalism)
+Laozi ↔ Zhuangzi (relativism, spontaneity, stories)
+
+Mozi ⊗ Confucius (universal love vs. graded love, consequentialism)
+Legalists (Han Feizi) → authoritarian statecraft
+```
+
+**Synthesis and Development:**
+```
+Buddhism (from India) → Chinese Buddhism (Chan/Zen)
+Confucianism + Daoism + Buddhism → Neo-Confucianism
+Zhu Xi (Neo-Confucianism: principle and vital energy)
+Wang Yangming ⊗ Zhu Xi (mind is principle, innate knowing)
+```
+
+### Indian Philosophy: Orthodox and Heterodox
+
+**Vedic Foundations:**
+```
+Vedas → Upanishads (Brahman, Atman, moksha)
+Upanishads → Six Orthodox Schools (accept Vedic authority)
+```
+
+**Orthodox Schools:**
+```
+Nyaya (logic, epistemology) ↔ Vaisheshika (metaphysics, atomism)
+Samkhya (dualism: purusha/prakriti) ↔ Yoga (Patanjali)
+Mimamsa (Vedic interpretation) ↔ Vedanta (Upanishadic interpretation)
+```
+
+**Heterodox Schools:**
+```
+Upanishads → Buddha ⊗ (rejection of Atman, Brahman, caste, Vedic authority)
+Buddha → Theravada, Mahayana, Vajrayana
+Mahayana → Madhyamaka (Nagarjuna: emptiness, two truths)
+Mahayana → Yogacara (consciousness-only)
+
+Upanishads → Mahavira → Jainism ⊗ (rejection of Vedas, extreme non-violence)
+```
+
+**Medieval Developments:**
+```
+Shankara ⟳ Upanishads (Advaita Vedanta: non-dualism, Brahman alone is real)
+Ramanuja ⊗ Shankara (Vishishtadvaita: qualified non-dualism)
+```
+
+### Contemporary Philosophy: The Great Divide
+
+**Continental Tradition:**
+```
+Hegel → Kierkegaard, Nietzsche → Existentialism (Heidegger, Sartre, Camus, Beauvoir)
+Husserl (phenomenology) → Heidegger → Sartre, Merleau-Ponty
+Nietzsche → Foucault (genealogy, power/knowledge)
+Nietzsche → Deleuze (difference, multiplicity)
+Heidegger → Derrida (deconstruction), Levinas (ethics)
+```
+
+**Analytic Tradition:**
+```
+Frege (logic, philosophy of language) → Russell, Wittgenstein (early)
+Russell → Logical Positivism (Vienna Circle: Carnap, Schlick)
+Wittgenstein (early → late: *Tractatus* → *Investigations*)
+Ordinary Language Philosophy: Austin, Ryle
+Quine (naturalism, holism) ⊗ Logical Positivism
+Kripke (modal logic, rigid designation, causal theory of reference)
+```
+
+**Cross-Tradition:**
+```
+Phenomenology (Husserl) ↔ Analytic philosophy of mind (intentionality)
+Pragmatism (Peirce, James, Dewey) ↔ both Continental and Analytic
+Recent reconciliation attempts (analytic Heidegger, continental philosophy of mind)
+```
+
+### Cross-Cultural Philosophical Conversations
+
+**Greek ↔ Indian:**
+```
+Pyrrhonian Skepticism ⊕ Buddhist philosophy? (Pyrrho traveled to India)
+Neoplatonism ↔ Advaita Vedanta (structural parallels: One/Brahman, emanation/maya)
+```
+
+**Islamic ↔ Western:**
+```
+Ibn Sina, Ibn Rushd → Aquinas, Scholasticism (transmission of Aristotle)
+Sufism ⊕ Christian mysticism (Pseudo-Dionysius, Meister Eckhart)
+Islamic logic → medieval European logic
+```
+
+**East Asian ↔ Western:**
+```
+Schopenhauer ⊕ Upanishads, Buddhism (early Western engagement)
+Nietzsche ⊕ Buddhist themes (suffering, impermanence, self)
+Heidegger ↔ Daoism, Zen Buddhism (late interest, controversial interpretations)
+Kyoto School: Nishida, Nishitani (Buddhist phenomenology)
+```
+
+**Contemporary Global Philosophy:**
+```
+Postcolonial philosophy: Fanon, Said (colonialism, Orientalism)
+African philosophy: Wiredu, Gyekye, Hountondji (tradition vs. modernity)
+Latin American philosophy: Liberation theology, decolonial thought
+Comparative philosophy: Cross-traditional engagement without appropriation
+```
+
+These maps are necessarily simplified. Each arrow could be expanded into essays. Use them as navigational aids, not as comprehensive accounts.
+
+---
 
 ## Metaphysics: What Exists?
 
